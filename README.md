@@ -1,2 +1,2 @@
-# mykicadproject
-save my kicad project
+# 
+save my kicad/lceda and others circuit project
