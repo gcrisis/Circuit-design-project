@@ -1,0 +1,253 @@
+{
+  "uuid": "5d0f42e4bd544df506f723a2281309cc",
+  "path": "Offline/lm386-audio-ap",
+  "name": "lm386-audio-ap",
+  "content": "",
+  "created_at": "2021-12-22 16:44:49",
+  "updated_at": "2021-12-29 13:32:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "6d531571deb252bd9f58dba9d5b7ce42",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "67a865dfda584fad289435a2d90a4118": 2,
+        "bb009484ef804a24ac5d18c54b249586": 5,
+        "24eeb2ceca08480b92b847b6a310acda": 9,
+        "fcaba4851eda4ca19d4326a668633a30": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 3,
+        "decd6f6d3af642e7af4bce30b1197f3b": 2,
+        "bd22e8c9e5e148dfabb0abd00c1a83e7": 1,
+        "05b62f2be3d14e299ececf327de876bb": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.05uf",
+          2,
+          "C0603",
+          "C1,C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10uf",
+          2,
+          "C0603",
+          "C2,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "250uf",
+          2,
+          "CAP-D6.3×F2.5",
+          "C3,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f22f57806f1b484c9525ae585bd9e142",
+            "uuid": "decd6f6d3af642e7af4bce30b1197f3b"
+          }
+        ],
+        [
+          "NC",
+          2,
+          "C0603",
+          "C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1u",
+          3,
+          "C0603",
+          "C9,C10,C11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "PJ-307N5",
+          1,
+          "AUDIO-TH_PJ-307N5",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C692542",
+            "BOM_Manufacturer": "XKB Connectivity",
+            "BOM_Manufacturer Part": "PJ-307N5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "866b8f6f2c5746ef8d9ccfcb383cb2d8",
+            "uuid": "05b62f2be3d14e299ececf327de876bb"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          3,
+          "HDR-F-2.54_1X2",
+          "H1,H2,H3",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "10R",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          3,
+          "R0603",
+          "R3,R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "RES-ADJ-TH_VZ067TL1B202",
+          "RP1,RP4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Manufacturer": "",
+            "puuid": "9ec7ff40ab2c4316b8d4ddc69eead4d4",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "LM386L-2-D08-T",
+          2,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U1,U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UTC",
+            "BOM_Manufacturer Part": "LM386L-2-D08-T",
+            "BOM_Supplier Part": "C87306",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "26ddc6f916344af197d04f4724b10b8a",
+            "uuid": "67a865dfda584fad289435a2d90a4118"
+          }
+        ],
+        [
+          "pad-smd-3",
+          1,
+          "PAD-SMD-3P",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "d7433d820cda43c2ab6fa0824c663e5b",
+            "uuid": "bd22e8c9e5e148dfabb0abd00c1a83e7"
+          }
+        ]
+      ],
+      "updateTime": 1640751086,
+      "createTime": 1640162693,
+      "histories": [],
+      "created_at": "2021-12-22 16:44:53",
+      "updated_at": "2021-12-29 12:11:26"
+    },
+    {
+      "uuid": "dee8a5dab1ff1c056661500c0e2f5c68",
+      "puuid": "5d0f42e4bd544df506f723a2281309cc",
+      "title": "PCB_lm386-audio-ap_2",
+      "filename": "PCB_lm386-audio-ap_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 9,
+        "866b8f6f2c5746ef8d9ccfcb383cb2d8": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 3,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "398691f1f785460098bbe5ee6590333c": 5,
+        "26ddc6f916344af197d04f4724b10b8a": 2,
+        "f22f57806f1b484c9525ae585bd9e142": 2,
+        "9ec7ff40ab2c4316b8d4ddc69eead4d4": 2,
+        "d7433d820cda43c2ab6fa0824c663e5b": 1
+      },
+      "BOM": [],
+      "updateTime": 1640755951,
+      "createTime": 1640164579,
+      "histories": [],
+      "created_at": "2021-12-22 17:16:19",
+      "updated_at": "2021-12-29 13:32:31"
+    }
+  ],
+  "sort": [],
+  "title": "lm386-audio-ap",
+  "foldername": "lm386-audio-ap",
+  "schfilename": "lm386-audio-ap.json",
+  "schfilemtime": 1640751086165
+}
